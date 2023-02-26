@@ -1,0 +1,9 @@
+.item {
+    color: gray;
+    list-style-type: none;
+}
+
+.total {
+    color: gray;
+    margin-left: 15px;
+}
